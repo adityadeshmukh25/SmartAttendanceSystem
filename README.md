@@ -1,0 +1,1 @@
+This Project takes people's names and their live images through webcam and then records the attendance and saves it in a csv file with the name of that particular day's date. To view the records use the app.py file and run it using streamlit.
